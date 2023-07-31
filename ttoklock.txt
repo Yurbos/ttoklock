@@ -1,2 +1,6 @@
 
 0.0.0.0 *.tiktokv.com
+0.0.0.0 mobileproxy.passport.yandex.net
+0.0.0.0 app-measurement.com
+0.0.0.0 itunes.apple.com
+0.0.0.0 startup.mobile.yandex.net
